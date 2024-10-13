@@ -14,7 +14,19 @@ console.log("Add two number =", a**b);
 //Unary Opreator
 
 // Conditional Statment
-let age = 16;
+let age = 25;
 if(age > 18){
     console.log("you can vote ")
 }
+
+let mode = "light";
+let color;
+
+if(mode==="Dark"){
+    color="Black"; 
+}
+
+if(mode==="light"){
+    color="White";
+}
+console.log(color);
