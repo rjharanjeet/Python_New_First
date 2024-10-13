@@ -13,3 +13,8 @@ console.log("Add two number =", a**b);
 
 //Unary Opreator
 
+// Conditional Statment
+let age = 16;
+if(age > 18){
+    console.log("you can vote ")
+}
